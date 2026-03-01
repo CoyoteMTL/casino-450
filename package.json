@@ -1,0 +1,17 @@
+{
+  "name": "casino-450",
+  "version": "1.2.1",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.10.0",
+    "bezier-easing": "^2.1.0",
+    "canvas": "^3.2.0",
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5",
+    "gif-encoder-2": "^1.0.5"
+  }
+}
